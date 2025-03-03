@@ -5,6 +5,8 @@ This repo contains write ups of a variety of cybersecurity based challenges that
 
 Write ups should take the form of a report on how you solved the challenge, use screenshots to demonstrate the application of the skills deployed to solve the challenge. Feel free to add any code snippets or scripts used and they'll all be checked before being published. Getting used to documenting your work, even in the time pressures of a CTF is a vital professional skill. As future Cyber/IT professionals you will be tasked with documenting everything you do. So, get used to it now!
 
+In your submission please include the name of the CTF, name of the challenge and a link to the challenge so someone can maybe in the future use your write up to help them solve a problem they are having. Please note: We will NOT publish write ups for active Hack The Box CTF challenges, labs or sherlocks. As that violates Hack The Box's user aggrement.
+
 
 If you know, you know!
 
